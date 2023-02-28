@@ -3,7 +3,7 @@ Soulbound Token contract to track community membership and manage governance via
 
 ## Scope
 
-This section defines the scope pertaining to identity, governance and participation for the ICONistDao 
+This section defines the scope pertaining to identity, governance and participation for the work with ICONists 
 
 ### Identity
 
@@ -29,7 +29,7 @@ TBD
 
 [Agora](https://github.com/staky-io/Agora)
 
-[ICONistDAO Pillars](https://github.com/ICONistDAO/pillars)
+[with-ICONists Pillars](https://github.com/with-ICONists/pillars)
 
 ## License
 
